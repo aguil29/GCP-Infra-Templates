@@ -24,7 +24,7 @@ cat <<EOF > /var/www/html/index.html
 <h2>Welcome to your Armegeddon.</h2>
 <h3>There's no easy way out. No short cuts to success.</h3>
 <h4>Victory is sweeter at the end!"</h4>
-<iframe width="560" height="315" src="https://youtu.be/3KpGfnF3m7w?si=pWAbQaXNF5_Vy5Bd?autoplay=1&mute=1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMUXSlsXmMc?autoplay=1&mute=1"></iframe>
 
 <p><b>Instance Name:</b> $(hostname -f)</p>
 <p><b>Instance Private IP Address: </b> $local_ipv4</p>
